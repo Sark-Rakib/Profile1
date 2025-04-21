@@ -71,6 +71,15 @@ margin-left: -290px;
  width: 400px;
  background-image:linear-gradient(black,rgb(181, 170, 170));
 }
+@media (max-width: 600px) {
+  .cont{
+    flex-direction: column;
+  }
+  .cont-3{
+    flex-direction: row;
+  }
+  
+}   
 .fa-facebook{
 margin-left: 30px;
 margin-top: 50px;
