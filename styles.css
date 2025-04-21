@@ -68,26 +68,26 @@ margin-left: -290px;
   justify-self: center;
  margin-top: 200px;
  height: 300px;
- width: 500px;
+ width: 400px;
  background-image:linear-gradient(black,rgb(181, 170, 170));
 }
 .fa-facebook{
-margin-left: 50px;
+margin-left: 30px;
 margin-top: 50px;
 color: rgb(238, 238, 244);
 }
 .fa-instagram{
-  margin-left: 50px;
+  margin-left: 30px;
   color: red;
   
   }
   .fa-linkedin{
-    margin-left: 60px;
+    margin-left: 30px;
     margin-top: 50px;
     color: white;
     }
     .fa-twitter{
-      margin-left: 60px;
+      margin-left: 30px;
       }
       .link-1{
         color: blue;
