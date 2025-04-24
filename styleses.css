@@ -1,0 +1,365 @@
+.trable{
+    display: flex;
+    justify-content: center;
+    background-color:burlywood;
+    width: 600px;
+    height: 50px;
+}
+.trable-1{
+    display: flex;
+    justify-content: center;
+    color: rgb(141, 71, 71);
+    margin-top: 10px
+}
+.body-3{
+    background-color:rgb(21, 20, 20);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+  }
+  #cont{
+  display: flex;
+  height: 500px;
+  width: 600px;
+  background-color: cornsilk;
+  }
+  #home{
+    align-items: center;
+    justify-content: center;
+    margin-left: 20px;
+    
+  }
+  #img-1{
+    height: 250px;
+    width: 200px;
+    margin-top: 50px;
+    border-radius: 5px;
+    margin-right: 10px;
+  }
+  #btn{
+    height: 35px;
+    background-color:blanchedalmond;
+    border-radius: 4px;
+    margin-top: 10px;
+    font-family:cursive;
+    font-weight: bold;
+  }
+  .tech{
+    background-image: linear-gradient(to right,black,gold);
+    background-clip: text;
+    color: transparent;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 60px;
+  }
+  .tech:hover{
+    color: gold;
+    background-color: black;
+  }
+  .img-2{
+    display: flex;
+    height: 20px;
+    width: 20px;
+    border-radius: 15px;
+    border: 1px solid white;
+    margin-top: -160px;
+    margin-right: 540px;
+  }
+  
+  .img-3{
+    height: 20px;
+    width: 20px;
+    border-radius: 15px;
+    border: 1px solid white;
+    margin-top: -22px;
+    margin-right: 504px;
+  }
+  
+  .img-4{
+    height: 20px;
+    width: 20px;
+    border-radius: 15px;
+    border: 1px solid white;
+    margin-top: -21px;
+    margin-right: 469px;
+  }
+  h6{
+    margin-top: -18px;
+    margin-right: 255px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  #cont-2{
+    height: 300px;
+    width: 600px;
+    background-color: white;
+  }
+  .img-5{
+    height: 210px;
+    width: 210px;
+    margin-top: 50px;
+    margin-left: 50px;
+    border-radius: 5px;
+  }
+  #rgb{
+    margin-left: 300px;
+    margin-top: -220px;
+    display: flex;
+    flex-direction:column;
+    font-family: cursive;
+  }
+  ul{
+    margin-top: 30px;
+    margin-left: 269px;
+  }
+  #cont-3{
+    height: 300px;
+    width: 600px;
+    background-color:beige; 
+  }
+  #hunda{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: smaller;
+    margin-right: 300px;
+    margin-left: 20px;
+    margin-top: 50px; 
+  }
+  .img-6{
+    height: 230px;
+    width: 200px;
+    border-radius: 5px;
+    margin-top: -190px;
+    margin-left: 350px;
+  }
+  
+  .fola{
+    margin-left: 40px;
+    margin-top: 50px;
+    font-family: cursive;
+    
+  }
+  .cons{
+    margin-left: 50px;
+    display: flex;
+    flex-wrap:wrap;
+  }
+  .bora-1, .bora-2{
+    font-weight: bold;
+  }
+  
+  #cont-4{
+    height: 250px;
+    width: 600px;
+    background-color:rgb(234, 202, 174);
+  }
+  .fola-2{
+    display: flex;
+    justify-content: center;
+    font-family: cursive;
+    padding-top: 30px;
+  }
+  ol{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    font-family:monospace;
+    font-weight: bold;
+    gap: 30px;
+    padding-top: 40px;
+  }
+  .balis-1{
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    width: 23px;
+    height: 21px;
+    border-radius: 5px;
+    margin-top: -100px;
+    margin-left: 40px;
+  }
+  .balis-2{
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    width: 23px;
+    height: 21px;
+    border-radius: 5px;
+    margin-top: -43px;
+    margin-left: 190px;
+  }
+  .balis-3{
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    width: 23px;
+    height: 21px;
+    border-radius: 5px;
+    margin-top: -43px;
+    margin-left: 358;
+  }
+  .balis-4{
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    width: 23px;
+    height: 21px;
+    border-radius: 5px;
+    margin-top: -43px;
+    margin-left: 503px;
+  }
+  #cont-5{
+    height: 550px;
+    width: 600px;
+    background-color:beige;
+  }
+  #malla{
+    height: 200px;
+    width: 170px;
+    background-color: rgb(234, 240, 240);
+    margin-left: 30px;
+    margin-top: 50px;
+    border-radius: 5px;
+  }
+  .bora-3{
+    font-weight: 100;
+    font-size:medium;
+    display: flex;
+    justify-content: center;
+    margin-top: -28px;
+    margin-left: 20px;
+  }
+  .mola{
+    font-family: cursive;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+  }
+  .tula{
+    font-family: cursive;
+    margin-left: 10px;
+  }
+  .fola-3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 10px;
+    margin-top: -13px;
+  }
+  li{
+    margin-left: 10px;
+  }
+  .srcb{
+    text-align: center;
+    height: 40px;
+    width: 150px;
+    margin-left: 10px;
+    margin-top: 20px;
+    border-radius: 5px;
+    background-color: antiquewhite;
+  }
+  #cont-6{
+    height: 600px;
+    width: 600px;
+    background-color:beige;
+  }
+  #malla-2{
+    height: 215px;
+    width: 180px;
+    background-color: rgb(118, 146, 146);
+    margin-left: 210px;
+    margin-top: -228px;
+    border-radius: 5px;
+  }
+  .tula-2{
+    font-family: cursive;
+    margin-left: 10px;
+  }
+  .fola-4{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 10px;
+    margin-top: -13px;
+  }
+  #malla-3{
+    height: 200px;
+    width: 170px;
+    background-color: rgb(234, 240, 240);
+    margin-left: 400px;
+    margin-top: -228px;
+    border-radius: 5px;
+  }
+  .tula-3{
+    font-family: cursive;
+    margin-left: 10px;
+  }
+  .fola-5{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 10px;
+    margin-top: -13px;
+  }
+  .cons-2{
+    font-family: cursive;
+    text-align: center;
+    margin-top: 90px;
+    font-weight: bold;
+  }
+  .cons-3{
+    text-align: center;
+  }
+  #cont-7{
+    height: 270px;
+    width: 600px;
+    background-color: rgb(28, 77, 49);
+    color: white;
+    text-align: center;
+    font-family: cursive;
+  }
+  .tula-4{
+    margin-top: 50px;
+  }
+  .srcb-2{
+    height: 40px;
+    border: 2px solid white;
+    border-radius: 5px;
+    background-color: rgb(28, 77, 49);
+    color: white;
+    font-family: cursive;
+    margin-top: 20px;
+  }
+  .img-8{
+    display: flex;
+    height: 20px;
+    width: 20px;
+    border-radius: 15px;
+    border: 1px solid white;
+    margin-top: 10px;
+    margin-left: 187px;
+  }
+  .img-9{
+    display: flex;
+    height: 20px;
+    width: 20px;
+    border-radius: 15px;
+    border: 1px solid white;
+    margin-top: -22px;
+    margin-left: 205px;
+  }
+  .img-10{
+    display: flex;
+    height: 20px;
+    width: 20px;
+    border-radius: 15px;
+    border: 1px solid white;
+    margin-top: -21px;
+    margin-left: 224px;
+  }
+  .lula{
+    display: flex;
+    justify-content: center;
+    margin-top: -20px;
+    margin-left: 300px;
+    color: white;
+    font-family: cursive;
+    
+  }
