@@ -29,20 +29,20 @@ font-size: 20px;
 }
 .p-1{
 margin-top: 100px;
-margin-left: -290px;
+margin-left: -275px;
 }
 .span-1{
   color:blue;
 }
 .h-1{
   margin-top: 140px;
-  margin-left: -160px;
+  margin-left: -280px;
   color:blue;
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .p-2{
   margin-top: 190px;
-  margin-left: -210px;
+  margin-left: -280px;
   background-image: linear-gradient(black,red);
 }
 .p-3{
