@@ -20,7 +20,10 @@
     
   }
 @media (max-width: 300px) {
-    .trable-5{
+    .body-3{
+      flex-direction: column;
+    }
+    .trable{
       flex-direction: column;
     }
   }
