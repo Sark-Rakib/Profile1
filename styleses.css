@@ -366,9 +366,13 @@
   }
 @media (max-width: 300px) {
     .body-3{
+        display: flex;
+        justify-content: center;
       flex-direction: column;
     }
     .trable{
+         display: flex;
+        justify-content: center;
       flex-direction: column;
     }
   }
