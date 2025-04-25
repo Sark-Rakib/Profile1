@@ -13,7 +13,7 @@
     color: rgb(141, 71, 71);
     margin-top: 10px
 }
-@media (max-width: 300px) {
+@media (max-width: 250px) {
     .body-100{
         flex-direction: column;
     }
