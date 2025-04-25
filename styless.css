@@ -13,14 +13,7 @@
     color: rgb(141, 71, 71);
     margin-top: 10px
 }
-@media (max-width: 300px) {
-    .body-100{
-        flex-direction: column;
-    }
-    .abcd{
-      flex-direction: row;
-    }
-  }
+
 .portal-1{
     display: flex;
     justify-content: center;
@@ -80,4 +73,12 @@ margin-top: 220px;
     margin-top: 40px;
     border: 2px solid white;
     border-radius: 100px 100px 500px 50px;
+  }
+@media (max-width: 300px) {
+    .body-100{
+        flex-direction: column;
+    }
+    .abcd{
+      flex-direction: row;
+    }
   }
