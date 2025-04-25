@@ -19,14 +19,7 @@
     flex-direction: column;
     
   }
-@media (max-width: 300px) {
-    .body-3{
-      flex-direction: column;
-    }
-    .trable{
-      flex-direction: column;
-    }
-  }
+
   #cont{
   display: flex;
   height: 500px;
@@ -370,4 +363,12 @@
     color: white;
     font-family: cursive;
     
+  }
+@media (max-width: 300px) {
+    .body-3{
+      flex-direction: column;
+    }
+    .trable{
+      flex-direction: column;
+    }
   }
