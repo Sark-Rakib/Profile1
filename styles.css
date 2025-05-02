@@ -7,7 +7,7 @@ body{
   display: flex;
   background-color: black;
   color: white;
-  height: 400px;
+  height: 420px;
   width: 950px;
   margin: auto;
   margin-top: 160px;
@@ -17,8 +17,8 @@ body{
   color: white;
   text-decoration: none;
   font-size: 20px;
- margin-left: 600px;
- margin-top: 20px;
+ margin-left: -200px;
+ margin-top: 40px;
  
 }
 .navi-2{
@@ -26,24 +26,24 @@ body{
 color: white;
 text-decoration: none;
 font-size: 20px;
- margin-left: 30px;
- margin-top: 20px;
+ margin-left: 850px;
+ margin-top: -60px;
 }
 .p-1{
-margin-top: 100px;
-margin-left: -275px;
+margin-top: 70px;
+margin-left: 575px;
 }
 .span-1{
   color:blue;
 }
 .h-1{
-  margin-top: 140px;
+  margin-top: 120px;
   margin-left: -280px;
   color:blue;
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .p-2{
-  margin-top: 190px;
+  margin-top: 170px;
   margin-left: -280px;
   background-image: linear-gradient(black,red);
 }
@@ -54,10 +54,25 @@ margin-left: -275px;
 .img-1{
   height: 220px;
   width: 220px;
-  margin-left: -830px;
+  margin-left: -810px;
   margin-top: 90px;
   border: 5px solid rgb(76, 73, 73);
   border-radius: 200px;
+}
+
+.cont-36{
+  margin-top: -40px;
+}
+.btn-1{
+  
+  justify-content: center;
+  margin-top: 360px;
+  margin-left: 270px;
+  height: 30px;
+  width: 200px;
+  color:rgb(238, 238, 243);
+  background-image: linear-gradient(to right,black,red);
+  border: none;
 }
 
 .body-1{
@@ -73,7 +88,7 @@ margin-left: -275px;
  width: 400px;
  background-image:linear-gradient(black,rgb(181, 170, 170));
 }
-@media (max-width: 300px) {
+@media (max-width: 600px) {
   .cont{
     flex-direction: column;
   }
@@ -130,6 +145,17 @@ color: rgb(238, 238, 244);
     margin-left: 5px;
    
   } 
-  
- 
-      
+  .body11{
+    background-color: black;
+  }
+  .cont-45{
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: cadetblue;
+    height: 100px;
+    width: 500px;
+    margin: auto;
+    margin-top: 200px;
+  }
