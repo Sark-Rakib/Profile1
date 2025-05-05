@@ -13,23 +13,7 @@ body{
   margin: auto;
   margin-top: 160px;
 }
-.navi-1{
-  display: flex;
-  color: white;
-  text-decoration: none;
-  font-size: 20px;
- margin-left: -200px;
- margin-top: 40px;
- 
-}
-.navi-2{
-  display: flex;
-color: white;
-text-decoration: none;
-font-size: 20px;
- margin-left: 850px;
- margin-top: -60px;
-}
+
 .div-95{
   display: flex;
   margin-left: 40px;
