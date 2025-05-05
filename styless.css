@@ -33,7 +33,7 @@
 }
 .h1{
     display: flex;
-    margin-left: 70px;
+    margin-left: 50px;
     margin-top: 50px;
     color: white;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -41,7 +41,7 @@
 .img-30{
     height: 28px;
     width: 25px;
-    margin-left: -529px;
+    margin-left: -549px;
     margin-top: 190px;
 }
 .img-31{
@@ -60,7 +60,7 @@ display: flex;
 justify-content: center;
 align-self: center;
 color: rgb(155, 141, 141);
-margin-left: -529px;
+margin-left: -549px;
 margin-top: 260px;
 }
 .fa-phone{
