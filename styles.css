@@ -5,10 +5,11 @@ body{
 .cont{
   flex: 1;
   display: flex;
+  flex-direction: column;
   background-color: black;
   color: white;
-  height: 420px;
-  width: 950px;
+  height: 300px;
+  width: 600px;
   margin: auto;
   margin-top: 160px;
 }
@@ -29,46 +30,60 @@ font-size: 20px;
  margin-left: 850px;
  margin-top: -60px;
 }
-.p-1{
-margin-top: 70px;
-margin-left: 500px;
+.div-95{
+  display: flex;
+  margin-left: 40px;
+  margin-top: 90px;
+}
+.img-1{
+  display: flex;
+  height: 130px;
+  width: 130px;
+  border: 5px solid rgb(76, 73, 73);
+  border-radius: 200px;
+}
+.div-9{
+ display: flex;
+margin-top: -190px;
+margin-left: 290px;
+font-size: 60%;
 }
 .span-1{
   color:blue;
 }
 .div-10{
-  margin-top: 90px;
-  margin-left: -145px;
+ display: flex;
+ flex-direction: column;
+  margin-top: -10px;
+  margin-left: 289px;
   color:blue;
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: x-small;
 }
 .div-3{
-  margin-top: 150px;
-  margin-left: -190px;
-  height: 170px;
+  display: flex;
+  flex-direction: row;
+  margin-top: -10px;
+  margin-left: 290px;
+  height: 110px;
+  width: 270px;
+  padding: 5px;
   background-image: linear-gradient(black,red);
+  font-size: x-small;
 }
 .p-3{
   display: flex;
   margin-right: 60px;
 }
-.img-1{
-  height: 220px;
-  width: 220px;
-  margin-left: -830px;
-  margin-top: 90px;
-  border: 5px solid rgb(76, 73, 73);
-  border-radius: 200px;
-}
+
 
 .cont-36{
   margin-top: -40px;
 }
 .btn-1{
-  
   justify-content: center;
-  margin-top: 360px;
-  margin-left: 270px;
+  margin-top: 20px;
+  margin-left: 290px;
   height: 30px;
   width: 200px;
   color:rgb(238, 238, 243);
